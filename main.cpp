@@ -1,7 +1,14 @@
 #include <bits/stdc++.h>
-
-int main(int argc, const char **argv)
+using namespace std;
+string s;
+int main()
 {
-  std::cout << "hesllo ssWorlds" << std::endl;
+  cout << "hello " << endl;
+  cin >> s;
+  cout << s;
+  // cin >> s;
+  // cout << "hellos!!" << endl;
+  // scanf("%s", &s);
+  // cout << s << endl;
   return 0;
 }
